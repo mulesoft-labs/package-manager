@@ -18,7 +18,7 @@
     "react-scripts": "^4.0.2",
     "react-table": "6.8.6",
     "react-tooltip": "^4.2.14",
-    "socket.io-client": "^3.1.1"
+    "socket.io-client": "^4.5.0"
   },
   "devDependencies": {
     "jest": "26.6.0"
